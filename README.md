@@ -20,10 +20,17 @@ To compile the code, use the Makefile and run `make` in the terminal. Make sure 
 ### System Walk Through 
 
 For a system walk through, since we don't have any user input and this is a simulated program, we will show screenshots of making and running the program, the expected output in the terminal, and the `output.txt` file. 
+
+Here is how the code is compiled and run.
+
 ![Making and running the program](compile-run.png)
 
 Below are the some screenshots of the expected output. There will be more printing statements that we are not including for the sake of conciseness. 
+
 ![Expected Output](output1.png)
+
 ![Expected Output Continued](output2.png)
+
+Here is the output file. 
 
 ![Output.txt file](outputfile.png)
