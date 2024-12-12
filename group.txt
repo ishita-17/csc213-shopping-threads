@@ -1,0 +1,17 @@
+Participants:
+
+Ishita Sarraf <sarrafis@grinnell.edu>
+Han Cano <canohan@grinnell.edu>
+Linda Jing <jinglind@grinnell.edu>
+
+By submitting this document, we confirm the following:
+
+1. Every student listed above contributed meaningfully to the work we are submitting.
+2. Our work on this lab was collaborative; the vast majority of the work on this lab was completed synchoronously with all group members present.
+3. The listed students above constitute the entire assigned group for this lab.
+
+Acknowledgments:
+
+Class Locks Exercise: https://curtsinger.cs.grinnell.edu/teaching/2024F/CSC213/exercises/locks/ 
+https://linux.die.net/man/3/pthread_mutex_init
+

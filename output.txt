@@ -1,0 +1,8 @@
+Product Name 	Revenue Earned
+Pen			     $1274065
+Pencil			 $1057232
+Eraser			 $1283145
+Sharpener	     $1777097
+Notebook		 $2581170
+Ruler			 $1038532
+Total Revenue Earned: 9011241
