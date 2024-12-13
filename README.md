@@ -1,6 +1,6 @@
 # Online Stationery Shopping Website: Backend Inventory
 
-CSC-213 Fall 2024
+CSC-213 Fall 2024, Final Project
 
 Ishita Sarraf, Linda Jing, Han Cano
 
