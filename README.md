@@ -1,8 +1,10 @@
 # Online Stationery Shopping Website: Backend Inventory
 
-CSC-213 Fall 2024, Final Project
+CSC-213-02 Fall 2024, Final Project
 
 Ishita Sarraf, Linda Jing, Han Cano
+
+Grinnell College
 
 ## Basic Use of the System 
 
