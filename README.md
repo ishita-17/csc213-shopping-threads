@@ -3,7 +3,7 @@
 CSC-213 Fall 2024
 Ishita Sarraf, Linda Jing, Han Cano
 
-### Basic Use of the System 
+## Basic Use of the System 
 
 This final project is a simple system that simulates an online stationery shopping website's backend inventory. We use `Parallelism with threads`, `Thread Synchronization`, and `Files and File Systems` as our 3 main concepts for this project. 
 
@@ -13,7 +13,7 @@ We also have an `audit` function that uses 1 thread to concurrently check the to
 
 If the audit is incorrect at any point, the program stops running. Otherwise, it simply prints `Audit correct` along with the revenue calculated so far each time the audit runs. 
 
-### Description of files in the directory
+## Description of files in the directory
 
 `inventory.c` : C file that creates the inventory
 
@@ -29,11 +29,11 @@ If the audit is incorrect at any point, the program stops running. Otherwise, it
 
 `.png files` : Screenshots of images included in this README file 
 
-### General instructions
+## General instructions
 
 Download all the files. Then, to compile the code, use the Makefile and run `make` in the terminal. Make sure you run the command in the project directory. Then run `./test` in the terminal to run the program. 
 
-### System Walk Through 
+## System Walk Through 
 
 For a system walk through, since we don't have any user input and this is a simulated program, we will show screenshots of making and running the program, the expected output in the terminal, and the `output.txt` file. 
 
