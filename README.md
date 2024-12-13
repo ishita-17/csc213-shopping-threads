@@ -16,18 +16,22 @@ If the audit is incorrect at any point, the program stops running. Otherwise, it
 ### Description of files in the directory
 
 `inventory.c` : C file that creates the inventory
+
 `main.c` : C file that creates the threads and runs the transactions for the program
+
 `inventory.h` : Header file that contains C declaration and macro definitions that is shared between `inventory.c` and `main.c`
+
 `output.txt` : The text file that is created at the end of the program that shows the total revenue
+
 `Makefile` : Compiles all the code and checks for race conditions in threads using thread sanitizer 
+
 `group.txt` : Text file that has author information and Academic Honesty statement for the class 
+
 `.png files` : Screenshots of images included in this README file 
 
 ### General instructions
 
-Download all the files. 
-
-To compile the code, use the Makefile and run `make` in the terminal. Make sure you run the command in the project directory. Then run `./test` in the terminal to run the program. 
+Download all the files. Then, to compile the code, use the Makefile and run `make` in the terminal. Make sure you run the command in the project directory. Then run `./test` in the terminal to run the program. 
 
 ### System Walk Through 
 
