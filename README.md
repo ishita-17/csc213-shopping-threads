@@ -1,6 +1,7 @@
 # Online Stationery Shopping Website: Backend Inventory
 
 CSC-213 Fall 2024
+
 Ishita Sarraf, Linda Jing, Han Cano
 
 ## Basic Use of the System 
